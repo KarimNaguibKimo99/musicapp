@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="question1">1. Who is the national who won world cup 1998?</string>
+    <string name="question1_choice1">Brazil</string>
+    <string name="question1_choice2">France</string>
+    <string name="question1_choice3">England</string>
+    <string name="question1_choice4">Germany</string>
+
+
+    <string name="question2">2. When Egypt defeated Israel in war ?</string>
+
+    <string name="question3">3. In Any year Egypt African national cup?</string>
+    <string name="question3_choice1">1986</string>
+    <string name="question3_choice2">2004</string>
+    <string name="question3_choice3">1998</string>
+    <string name="question3_choice4">2002</string>
+
+    <string name="question4">4. when the last time Brazil won world cup?</string>
+
+    <string name="question5">5 How times that ahly won African Champions League?</string>
+    <string name="question5_choice1">3</string>
+    <string name="question5_choice2">8</string>
+    <string name="question5_choice3">10</string>
+    <string name="question5_choice4">6</string>
+
+    <string name="question6">6. Who the player did score the winning goal to make spain won world cup 2010?</string>
+
+    <string name="question7">7. Any years which Real Madrid won Champions League?</string>
+    <string name="question7_choice1">2002</string>
+    <string name="question7_choice2">2014</string>
+    <string name="question7_choice3">2016</string>
+    <string name="question7_choice4">2018</string>
+
+    <string name="question8">8. In any year Yaser Arfat Died?</string>
+
+    <string name="question9">9. What is the capital of Cambodia?</string>
+    <string name="question9_choice1">Siem Reap</string>
+    <string name="question9_choice2">Phnom Penh</string>
+
+    <string name="question10">10. What is the langauge program of android ?</string>
+
+    <string name="Finish">Finish</string>
+    <string name="hint">year</string>
+
+
+</resources>
